@@ -1,4 +1,4 @@
-# GitHub Users & Repositories Analysis in Boston
+# GitHub Users & Repositories Analysis in Boston:100
 
 ## Project Overview
 This project aims to analyze GitHub users from Boston who have over 100 followers and their public repositories. The data was collected using the GitHub API and explored for various insights related to user activity, repository features, and correlations among key attributes.
